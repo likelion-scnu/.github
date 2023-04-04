@@ -1,4 +1,4 @@
-![LIKELIONLOGO](https://github.com/likelion-scnu/.github/blob/main/profile/github.png?raw=true)
+[![LIKELIONLOGO](https://github.com/likelion-scnu/.github/blob/main/profile/github.png?raw=true)](https://github.com/likelion-scnu)
 
 ## 🧑‍💻 운영진
 | 김건중 | 조용원 | 서기문 |
