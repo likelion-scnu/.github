@@ -3,7 +3,7 @@
 ## 🎲 운영진
 | 김건중 | 조용원 | 서기문 |
 | :---: | :---: | :---: |
-| <img width="150" src="https://avatars.githubusercontent.com/u/92288418?v=4"> | <img width="150" src="https://avatars.githubusercontent.com/u/95302624?v=4" alt="조용원"> | <img width="150" src="https://avatars.githubusercontent.com/u/110585045?v=4"> |
+| [<img width="150" src="https://avatars.githubusercontent.com/u/92288418?v=4">](https://github.com/KUNJOONGK) | [<img width="150" src="https://avatars.githubusercontent.com/u/95302624?v=4" alt="조용원">](https://github.com/nyongone) | [<img width="150" src="https://avatars.githubusercontent.com/u/110585045?v=4">](https://github.com/seokimun) |
 | 대표 | FE/App 운영진 | BE 운영진 |
 
 ## 👥 그룹 소개
