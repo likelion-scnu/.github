@@ -15,7 +15,7 @@
     <td colspan="4" align="center"><b>그룹원</b></td>
   </tr>
   <tr>
-    <td align="center">FE</td>
+    <td align="center"><b>FE</b></td>
     <td>강태양</td>
     <td>김도준</td>
     <td>나산하</td>
@@ -23,7 +23,7 @@
     <td>정의나</td>
   </tr>
   <tr>
-    <td align="center">App</td>
+    <td align="center"><b>App</b></td>
     <td>박지현</td>
     <td>엄요준</td>
     <td>허정훈</td>
@@ -31,7 +31,7 @@
     <td></td>
   </tr>
   <tr>
-    <td>BE(Python) A</td>
+    <td align="center"><b>BE(Python) A</b></td>
     <td>정다운</td>
     <td>김찬혁</td>
     <td>신지은</td>
@@ -39,7 +39,7 @@
     <td>최진영</td>
   </tr>
   <tr>
-    <td align="center">BE(Python) B</td>
+    <td align="center"><b>BE(Python) B</b></td>
     <td>민수빈</td>
     <td>김은송</td>
     <td>김형준</td>
@@ -47,7 +47,7 @@
     <td>박향기</td>
   </tr>
   <tr>
-    <td align="center">BE(Python) C</td>
+    <td align="center"><b>BE(Python) C</b></td>
     <td>이승현</td>
     <td>권보람</td>
     <td>김승재</td>
@@ -55,7 +55,7 @@
     <td></td>
   </tr>
   <tr>
-    <td align="center">BE(Java) A</td>
+    <td align="center"><b>BE(Java) A</b></td>
     <td>오사랑</td>
     <td>구본훈</td>
     <td>김선우</td>
@@ -63,7 +63,7 @@
     <td>이여원</td>
   </tr>
   <tr>
-    <td align="center">BE(Java) B</td>
+    <td align="center"><b>BE(Java) B</b></td>
     <td>박신혁</td>
     <td>배장원</td>
     <td>신규원</td>
