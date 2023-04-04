@@ -1,7 +1,1 @@
-## LIKELION 11th SCNU
-
-
-###  운영진
-| 김건중 | 조용원 | 서기문 |
-| :---: | :---: | :---: |
-| 대표 | FE/App 운영자 | BE 운영자 |
+![LIKELIONLOGO](https://github.com/likelion-scnu/.github/blob/main/profile/github.png?raw=true)
